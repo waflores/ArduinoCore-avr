@@ -1,5 +1,5 @@
 {
-    "name": "framework-arduino",
+    "name": "framework-arduino-avr",
     "description": "Arduino Wiring-based Framework (Arduino Core)",
     "url": "https://github.com/arduino/ArduinoCore-avr",
     "version": "dev"
